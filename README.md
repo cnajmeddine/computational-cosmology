@@ -98,5 +98,6 @@ Possible improvements include:
 ## Useful links
 * https://edd.ifa.hawaii.edu/
 * https://iopscience.iop.org/article/10.3847/1538-4357/ac94d8
+* https://ned.ipac.caltech.edu/uri/NED::InRefcode/2020ApJ...902..145K
 
 This simulation demonstrates how gravitational flows shape the universe's large-scale structure and provides a foundation for further exploration of cosmic phenomena.

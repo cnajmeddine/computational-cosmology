@@ -24,7 +24,7 @@ BoAs represent zones where galaxies follow specific gravitational flows due to n
 ### Mathematical Model
 The gravitational flow of galaxies toward these attractors can be represented mathematically by:
 
-   **v(pec)=−∇Φ**
+   **v<sub>pec</sub>=−∇Φ**
 
 where:
 - **v<sub>pec</sub>** is the peculiar velocity,

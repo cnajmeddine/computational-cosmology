@@ -23,12 +23,12 @@ BoAs represent zones where galaxies follow specific gravitational flows due to n
 
 ### Mathematical Model
 The gravitational flow of galaxies toward these attractors can be represented mathematically by:
-\[
-v_{\text{pec}} = -\nabla \Phi
-\]
+
+   **v(pec)=−∇Φ**
+
 where:
-- \( v_{\text{pec}} \) is the peculiar velocity,
-- \( \nabla \Phi \) is the gradient of the gravitational potential \( \Phi \), guiding the flow toward density centers.
+- **v<sub>pec</sub>** is the peculiar velocity,
+- **∇Φ** is the gradient of the gravitational potential \( \Phi \), guiding the flow toward density centers.
 
 The peculiar velocity data from CF4 is modeled in 3D space with directional vectors pointing galaxies toward attractors.
 

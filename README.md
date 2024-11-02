@@ -95,4 +95,8 @@ Possible improvements include:
 1. **Cosmicflows-4 Database**: [EDD Cosmicflows-4](http://edd.ifa.hawaii.edu/CF4)
 2. **Basins of Attraction Paper**: *Identification of Basins of Attraction in the Local Universe*
 
+## Useful links
+* https://edd.ifa.hawaii.edu/
+* https://iopscience.iop.org/article/10.3847/1538-4357/ac94d8
+
 This simulation demonstrates how gravitational flows shape the universe's large-scale structure and provides a foundation for further exploration of cosmic phenomena.
